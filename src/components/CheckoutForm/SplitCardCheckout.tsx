@@ -88,7 +88,7 @@ const SplitCardCheckout = () => {
               id="name"
               className="focus:outline-none placeholder-[#87bbfd]"
               required
-              placeholder="Name"
+              placeholder="Jenny Rosen"
               value={name}
               onChange={(e) => {
                 setName(e.target.value);

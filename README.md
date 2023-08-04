@@ -1,4 +1,6 @@
 <a href="https://github.com/Sumittecorb/stripe-next-tailwindcss/">
+  <img width="1440" alt="Screenshot 2023-07-27 at 6 59 04 PM" src="https://github.com/Sumittecorb/stripe-next-tailwindcss/assets/105202084/8b4bd7de-94af-4cd1-ad1b-86d5fd2ef9f2">
+
   <!-- <img alt="Stripe Demo" src="https://github.com/Sumittecorb/ai-chat-bot/blob/main/public/ai-chat-bot.png"> -->
   <h1 align="center">Stripe Demo</h1>
 </a>
@@ -34,10 +36,16 @@ In this there are three example in stripe payments
 
 
 ## Add Account
+<img width="1440" alt="Screenshot 2023-07-27 at 6 59 33 PM" src="https://github.com/Sumittecorb/stripe-next-tailwindcss/assets/105202084/15cda6a3-e5c4-4680-94a3-ba28362e836c">
+
 
 ## Detail Card
+<img width="1440" alt="Screenshot 2023-07-27 at 6 59 43 PM" src="https://github.com/Sumittecorb/stripe-next-tailwindcss/assets/105202084/2a20a9b0-ddb9-4659-ab29-368811ee6f0b">
+
+
 
 ## Split card
+<img width="1440" alt="Screenshot 2023-07-27 at 7 00 35 PM" src="https://github.com/Sumittecorb/stripe-next-tailwindcss/assets/105202084/6f417e86-90d0-48c0-95e1-8815ad7b1d6f">
 
 ### Frameworks
 
